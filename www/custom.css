@@ -1,0 +1,20 @@
+.content-wrapper, .right-side {
+    background-color: #f4f6f9;
+}
+
+.box {
+    border-top: 3px solid #3c8dbc;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+}
+
+.alert {
+    margin: 20px 0;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
